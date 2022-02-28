@@ -25,7 +25,7 @@ To generate ensemble parameter files for the first time:
 bash init_param_bio.sh
 ```
 
-To re-perturb ensemble parameter files:
+To re-perturb existing ensemble parameter files:
 
 ```
 bash ptrb_param_bio.sh
